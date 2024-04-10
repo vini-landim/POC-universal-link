@@ -3,9 +3,7 @@
         "details": [
             {
                 "appIDs": [
-                    "HZ6645YGL9.com.dressyclub-demo.app",
-                    "6476926739.com.dressyclub-demo.app",
-                    "com.dressyclub-demo.app"
+                    "HZ6645YGL9.com.dressyclub-demo.app"
                 ],
                 "paths": [
                     "*"
