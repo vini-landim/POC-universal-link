@@ -1,0 +1,9 @@
+{
+  "name": "universal-link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vini-landim/POC-universal-link.git",
+  "author": "vini@dressy.club",
+  "license": "MIT",
+  "private": null
+}
