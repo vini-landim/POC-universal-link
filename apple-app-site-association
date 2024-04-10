@@ -1,13 +1,10 @@
 {
     "applinks": {
-        "apps": [],
         "details": [
             {
                 "appID": "HZ6645YGL9.com.dressyclub-demo.app",
                 "paths": [
-                    "*",
-                    "*/redirect",
-                    "redirect/*"
+                    "*"
                 ]
             }
         ]
